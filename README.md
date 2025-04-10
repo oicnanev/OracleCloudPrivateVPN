@@ -1,6 +1,6 @@
 # Tutorial: Como Montar uma VPN na Oracle Cloud Free Tier com WireGuard e DynDNS
 
-Neste tutorial completo, vou guiá-lo passo a passo para criar sua própria VPN segura e rápida usando a Oracle Cloud Infrastructure (OCI) no plano Always Free, configurar o WireGuard como tecnologia VPN e associar um serviço DynDNS (como No-IP) para acesso simplificado.
+Guia passo para criar VPN segura e rápida usando a Oracle Cloud Infrastructure (OCI) no plano Always Free, configurar o WireGuard como tecnologia VPN e associar um serviço DynDNS (como No-IP) para acesso simplificado.
 
 ## Pré-requisitos
 
